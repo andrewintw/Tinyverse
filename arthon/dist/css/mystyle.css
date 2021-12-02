@@ -1,0 +1,23 @@
+#schedule{
+    /* width: 600px; */
+    max-width: 600px;
+}
+
+#register{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.proposal{
+    left: 0px;
+    linear-gradient(to top right, #0081F6 0, #44A6FF 100%);
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
